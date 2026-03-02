@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import useGames from "../hooks/useGames";
-import GameCard from "./gamecard";
+import GameCard from "./GameCard";
 
 const GameGrid = ({ genre, ordering, search, theme, onGameClick }) => {
   const [page, setPage] = useState(1);
