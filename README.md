@@ -6,7 +6,7 @@ Modern Game Discovery Web App built with React & Vite featuring search, filters,
 
 ## 🚀 Live Demo
 
-(Deploy on Vercel and paste link here)
+https://gamehub-react-henna.vercel.app/
 
 ---
 
