@@ -1,19 +1,45 @@
-# React + Vite
+# 🎮 GameHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern Game Discovery Web App built with React & Vite featuring search, filters, wishlist, and dark mode.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+(Deploy on Vercel and paste link here)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔍 Search games
+- 🎯 Filter by genre
+- ❤️ Wishlist functionality
+- 🌙 Dark / Light mode
+- 📊 Game ratings
+- ⚡ Fast performance (Vite)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- React
+- Vite
+- JavaScript
+- Context API
+- CSS
+
+---
+
 ## 📸 Preview
 
 ![GameHub Screenshot](./screenshots/homepage.png)
+
+---
+
+## ⚙ Installation
+
+```bash
+git clone https://github.com/harshverma766/gamehub-react.git
+cd gamehub-react
+npm install
+npm run dev
