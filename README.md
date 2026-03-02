@@ -5,6 +5,7 @@ Modern Game Discovery Web App built with React & Vite featuring search, filters,
 ---
 
 ## 🚀 Live Demo
+
 (Deploy on Vercel and paste link here)
 
 ---
@@ -32,7 +33,7 @@ Modern Game Discovery Web App built with React & Vite featuring search, filters,
 
 ## 📸 Preview
 
-![GameHub Screenshot](./screenshots/homepage.png)
+![GameHub Screenshot](./Screenshots/homepage.png)
 
 ---
 
@@ -43,3 +44,4 @@ git clone https://github.com/harshverma766/gamehub-react.git
 cd gamehub-react
 npm install
 npm run dev
+```
